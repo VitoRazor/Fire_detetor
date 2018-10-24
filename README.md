@@ -13,12 +13,19 @@ For this repository, I just want to record the code
 
 ## Installation
 This project is built from cmake, and the components required are:
+
 C++11
+
 Opencv 3.4
+
 QT 5.9
+
 Cmake > 2.8
+
 Cuda 9.1
+
 Cudnn 7.1
+
 And some extra DLLS (for Windows)
 ## Detail  
 ### Result:
